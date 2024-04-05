@@ -18,7 +18,7 @@
 <a href="mailto:agatha.jamille.tv@gmail.com" target="_blank">
     <img alt="logo gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="www.linkedin.com/in/ágatha-jamille-502997302" target="_blank">
+<a href="https://www.linkedin.com/in/%C3%A1gatha-jamille-502997302/" target="_blank">
     <img alt="logo linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
